@@ -16,4 +16,7 @@ The results of the classical emulator can be found in the folder `Image_Results`
 
 The results from the stress test analysis can be found in `Images_Stress_Test`
 
+The code can be found at this repository:
+
+https://github.com/UCLQT/UCLQ-Quantum-Energy-Hackathon
 
