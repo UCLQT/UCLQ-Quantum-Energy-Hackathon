@@ -9,10 +9,10 @@ Henry Atkins,
 Mauro Mendizabal Pico, 
 Thomas R. Clarke (SolemnShark871)
 
-The notebook with the finial code is called finalfinal.ipynb
+## TThe notebook with the finial code is called finalfinal.ipynb
 
 
-## The images from the final QAOA circuit can found in the folder `Images_Quantum_circuit`
+The images from the final QAOA circuit can found in the folder `Images_Quantum_circuit`
 
 The results of the classical emulator can be found in the folder `Image_Results`
 
