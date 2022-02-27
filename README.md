@@ -1,4 +1,5 @@
 # UCLQ-Quantum-Energy-Hackathon
 
-The images from the final QAOA circuit can found in the folder ...
-The results of the classical emulator can be found in the folder ....
+The images from the final QAOA circuit can found in the folder Images_Quantum_circuit
+The results of the classical emulator can be found in the folder Image_Results
+The results from the stress test analysis can be found in Images_Stress_Test
